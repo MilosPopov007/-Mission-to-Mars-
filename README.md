@@ -28,4 +28,17 @@ To obtain Mars weather data for the  [Analysis](https://github.com/MilosPopov007
 ![This is an image](https://github.com/MilosPopov007/-Mission-to-Mars-/blob/main/Mars_table.png)
 
 
+### Weather Summary 
+
+On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest. But it is always very cold there in human terms!
+
+Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
+
+A visual estimate of the terrestrial days ( The distance from peak to peak is roughly 1425-750, or 675 days ), confirms that a year on Mars appears to be about 675 days from the plot. Internet search confirms also that a Mars year is equivalent to 687 earth days.
+
+
+
+
+
+
 
