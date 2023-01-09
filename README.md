@@ -22,6 +22,7 @@ To obtain Mars weather data for the  [Analysis](https://github.com/MilosPopov007
 *  Create a Beautiful Soup object and use it to scrape the data in the HTML table
 *  Assemble the scraped data into a Pandas DataFrame
 *  Analyze dataset by using Pandas functions
+*  Export the DataFrame to a CSV file
 
 
 ![This is an image](https://github.com/MilosPopov007/-Mission-to-Mars-/blob/main/Mars_table.png)
