@@ -28,7 +28,7 @@ To obtain Mars weather data for the  [Analysis](https://github.com/MilosPopov007
 ![This is an image](https://github.com/MilosPopov007/-Mission-to-Mars-/blob/main/Mars_table.png)
 
 
-### Weather Summary 
+### Mars Weather Data Summary
 
 On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest. But it is always very cold there in human terms!
 
